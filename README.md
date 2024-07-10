@@ -37,6 +37,23 @@ The script assumes the following database schema:
     - `course_id`: Integer, foreign key referencing `courses(course_id)`.
 
 
+## CSV File Formats
+
+### `courses.csv`
+
+```csv
+major,course
+Computer Science,Algorithms
+Mathematics,Calculus
+```
+### `students.csv`
+```csv
+first_name,last_name,major,gpa
+John,Doe,Computer Science,3.5
+Jane,Smith,Mathematics,3.8
+```
+
+
 ## Script Overview
 
 The script performs the following tasks:
@@ -61,3 +78,5 @@ The script performs the following tasks:
     ```bash
     ./script_name.sh
     ```
+
+
