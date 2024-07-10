@@ -1,6 +1,10 @@
 # Student Database Insertion Script
 
-This Bash script is designed to automate the insertion of data from two CSV files (`courses.csv` and `students.csv`) into a PostgreSQL database named `students`. The script performs various checks and inserts to ensure that the data is correctly populated in the database.
+This poject is part of the FreeCodeCamp - Database Certification.  
+
+## Task
+Create a Bash script designed to automate the insertion of data from two CSV files (`courses.csv` and `students.csv`) into a PostgreSQL database named `students`.  
+The script performs various checks and inserts to ensure that the data is correctly populated in the database.
 
 ## Prerequisites
 
