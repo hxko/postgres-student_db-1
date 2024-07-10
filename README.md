@@ -1,6 +1,6 @@
 # Student Database Insertion Script
 
-This poject is part of the FreeCodeCamp - Database Certification.  
+This project is part of the FreeCodeCamp - Relational Database Certification.  
 
 ## Task
 Create a Bash script designed to automate the insertion of data from two CSV files (`courses.csv` and `students.csv`) into a PostgreSQL database named `students`.  
